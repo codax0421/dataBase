@@ -1,9 +1,81 @@
 {
-  "posts": [
+  "mangaList": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ]
- 
-}
+      "id": "uuidv4()",
+      "title": "Starlight Adventures",
+      "rating": 4.3,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 45", "Episode 46", "Episode 47"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Echoes of Time",
+      "rating": 4.6,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 11", "Episode 12", "Episode 13"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Shadow Quest",
+      "rating": 4.7,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 22", "Episode 23", "Episode 24"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Galactic Heroes",
+      "rating": 4.8,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 5", "Episode 6", "Episode 7"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Mystic Knights",
+      "rating": 4.2,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 33", "Episode 34", "Episode 35"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Ocean's Melody",
+      "rating": 4.1,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 18", "Episode 19", "Episode 20"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Lost Civilizations",
+      "rating": 4.9,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 55", "Episode 56", "Episode 57"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Winds of Change",
+      "rating": 4.5,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 29", "Episode 30", "Episode 31"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Guardians of Lore",
+      "rating": 4.4,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 42", "Episode 43", "Episode 44"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Crimson Blade",
+      "rating": 4.8,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 58", "Episode 59", "Episode 60"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Arcane Journeys",
+      "rating": 4.6,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 14", "Episode 15", "Episode 16"]
+    },
+    {
+      "id": "uuidv4()",
