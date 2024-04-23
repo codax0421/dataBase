@@ -1,9 +1,11 @@
-{"post": [
+{
+  "posts": [
     {
-      "title": "Starlight Adventures",
-      "rating": 4.3,
-      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
-      "last_3_episode": ["Episode 45", "Episode 46", "Episode 47"],
-    },
-]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
