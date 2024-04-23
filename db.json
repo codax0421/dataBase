@@ -1,4 +1,4 @@
- [
+{"post": [
     {
       "title": "Starlight Adventures",
       "rating": 4.3,
@@ -6,4 +6,4 @@
       "last_3_episode": ["Episode 45", "Episode 46", "Episode 47"],
     },
 ]
-
+}
