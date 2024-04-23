@@ -79,3 +79,66 @@
     },
     {
       "id": "uuidv4()",
+      "title": "Eternal Sky",
+      "rating": 4.3,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 70", "Episode 71", "Episode 72"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Spirit Walkers",
+      "rating": 4.7,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 48", "Episode 49", "Episode 50"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Twilight Chronicles",
+      "rating": 4.5,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 2", "Episode 3", "Episode 4"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Swords and Shadows",
+      "rating": 4.6,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 64", "Episode 65", "Episode 66"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Reverie of War",
+      "rating": 4.7,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 39", "Episode 40", "Episode 41"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Legends of the Ancient",
+      "rating": 4.9,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 25", "Episode 26", "Episode 27"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Infinite Quest",
+      "rating": 4.8,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 8", "Episode 9", "Episode 10"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Heroes of Tomorrow",
+      "rating": 4.5,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 53", "Episode 54", "Episode 55"]
+    },
+    {
+      "id": "uuidv4()",
+      "title": "Saga of the Fallen",
+      "rating": 4.7,
+      "img": "https://cdn.pixabay.com/photo/2023/12/07/11/11/girl-8435340_1280.png",
+      "last_3_episode": ["Episode 36", "Episode 37", "Episode 38"]
+    }
+  ]
+}
